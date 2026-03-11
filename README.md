@@ -1,24 +1,29 @@
 # FUTURE_CS_02
 
-## Phishing Email Detection and Awareness Project
-
-This project analyzes a suspicious email to identify phishing indicators and explain how users can recognize and avoid phishing attacks.
+## Phishing Email Detection and Awareness
 
 ### Objective
-The objective of this project is to examine a sample email and determine whether it is a legitimate message or a phishing attempt.
+The purpose of this task is to analyze a suspicious email and identify possible phishing indicators. This helps users understand how phishing attacks work and how to recognize them.
 
-### Tools Used
-- Email header inspection
-- Link analysis
-- Security awareness techniques
+### Email Overview
+The analyzed email contains an internship offer from Future Interns. The email includes an offer letter attachment and instructions about completing cybersecurity tasks.
 
-### Key Phishing Indicators
-Common phishing signs include:
-- Suspicious sender address
-- Urgent or threatening language
-- Requests for personal information
-- Suspicious links or attachments
-- Grammar or spelling mistakes
+### Phishing Indicators Analysis
 
-### Purpose
-This project demonstrates how cybersecurity professionals analyze suspicious emails and educate users about phishing threats.
+**1. Unexpected Opportunity**
+The email offers an internship opportunity without a formal interview process. Unexpected offers can sometimes be used in phishing or scam campaigns.
+
+**2. External Links**
+The email includes links to external websites and LinkedIn pages. Users should always verify that links belong to legitimate organizations.
+
+**3. Attachment**
+The email includes an attachment (offer letter). Attachments in emails can sometimes be used to deliver malicious files.
+
+**4. Promotion Requirement**
+The email asks recipients to post the offer letter publicly on LinkedIn. Requests for promotional actions in unsolicited emails can sometimes be suspicious.
+
+### Conclusion
+Although the email contains professional formatting and contact information, users should always verify internship opportunities and organizations before interacting with attachments or links. Awareness of phishing techniques helps protect users from potential cyber threats.
+
+### Evidence
+A screenshot of the analyzed email is stored in the **screenshots** folder.
